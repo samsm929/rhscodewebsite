@@ -349,3 +349,7 @@ header.masthead {
 p {
   text-decoration: none;
 }
+
+.btn .btn-default .btn-xl .sr-button .resourcebtn {
+  margin: 50px;
+}
