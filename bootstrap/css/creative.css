@@ -246,10 +246,6 @@ header.masthead {
       font-size: 16px; }
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
       font-size: 22px; } }
-.portfolioLink {
-  color: white;
-  position: absolute;
-}
 .call-to-action {
   padding: 50px 0; }
   .call-to-action h2 {
@@ -345,11 +341,3 @@ header.masthead {
 
 .btn-xl {
   padding: 15px 30px; }
-
-p {
-  text-decoration: none;
-}
-
-.btn .btn-default .btn-xl .sr-button .resourcebtn {
-  margin: 50px;
-}
