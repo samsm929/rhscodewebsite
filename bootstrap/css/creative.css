@@ -246,7 +246,10 @@ header.masthead {
       font-size: 16px; }
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
       font-size: 22px; } }
-
+.portfolioLink {
+  color: white;
+  position: absolute;
+}
 .call-to-action {
   padding: 50px 0; }
   .call-to-action h2 {
