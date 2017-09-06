@@ -262,7 +262,7 @@ header.masthead {
 .btn-default {
   color: #222222;
   border-color: white;
-  background-color: white; }
+  background-color: white;}
   .btn-default.focus, .btn-default:focus {
     color: #222222;
     border-color: #bfbfbf;
@@ -343,4 +343,7 @@ header.masthead {
 .btn-xl {
   padding: 30px 60px; }
   
+.margin {
+  margin:20px; }
+}
   
